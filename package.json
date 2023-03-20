@@ -1,0 +1,25 @@
+{
+    "name": "api4-project",
+    "version": "1.0.0",
+    "description": "In this challenge, you will build a simple Express app that is _deployable_ to Heroku. This means that it has a proper `start` script in the `package.json` file, and that the port number is taken from the environment instead of it being hard-coded. Feel free to deploy your app to Heroku, but bear in mind that this is not a free service anymore.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/victor-likes-coding/node-api4-project.git"
+    },
+    "keywords": [],
+    "author": "Victor Tran",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/victor-likes-coding/node-api4-project/issues"
+    },
+    "homepage": "https://github.com/victor-likes-coding/node-api4-project#readme",
+    "devDependencies": {
+        "eslint": "^8.36.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.27.5"
+    }
+}
